@@ -57,11 +57,12 @@ Mac:
  1. Click Open Existing Project.
  2. Go to your user's folder (~ in Terminal), you can do this by pressing Downloads on the side and Command + Up
  3. Click on AVPTag
- 4. Click on MacOS
- 5. Click on AVPTag.xcodeproj
- 6. On the menu bar (the top bar), press Window > Devices and Simulators
- 7. Under your Apple Vision Pro, select Pair.
- 8. Continue the rest of the set up below.
+ 4. Click on AppleVisionPro
+ 5. Click on AVPTag
+ 6. Click and open AVPTag.xcodeproj
+ 7. On the menu bar (the top bar), press Window > Devices and Simulators
+ 8. Under your Apple Vision Pro, select Pair.
+ 9. Continue the rest of the set up below.
     
 Apple Vision Pro & Mac
 
