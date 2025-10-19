@@ -15,7 +15,7 @@ AVPTag is a way to run Gorilla Tag on a Apple Vision Pro. Here is how.
 
 # How to set up
 
-Our GitHub repo has a couple commands required to install. Here is how to set up:
+Our GitHub repo requires A LOT of patience and time. However, it actually doesn't take so long. Read below!
 
 # Requirements
 
