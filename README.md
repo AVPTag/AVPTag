@@ -30,11 +30,11 @@ We created AVPTag with legal precautions. Our first idea was not legal, so we ch
  6. Report Bugs. 
 To report bugs, you will need to go to the "issues" tab at [https://github.com/CanvasONETech/AVPTag]. This is the path to take before taking action against our app, and ensures our bugs will be fixed fast.
 
-# How to set up:
+# How to set up
 
 Our GitHub repo has a couple commands required to install. Here is how to set up:
 
-Requirements:
+# Requirements
 
 A Windows Device with at least 5 GB free (To install Gorilla Tag)
 
@@ -42,7 +42,7 @@ An  **Apple Silcon** MacOS Device with at least 30 GB free (To sideload apps ont
 
 An Apple Vision Pro -- any type of Apple Vision Pro. Must have 6 GB free at the bare minimum.
 
-How to set up:
+# Setup
 
 Mac:
 
