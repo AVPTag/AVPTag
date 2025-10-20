@@ -1,13 +1,13 @@
 # AVPTag 
 (created by [Hopefullty](youtube.com/@hopefullty) on YouTube.)
 
-Jump to: https://github.com/CanvasONETech/AVPTag/blob/main/README.md#package-information
-
 Jump to: https://github.com/CanvasONETech/AVPTag/blob/main/README.md#requirements
 
 Jump to: https://github.com/CanvasONETech/AVPTag/blob/main/README.md#how-to-update-properly
 
 Jump to: https://github.com/CanvasONETech/AVPTag/blob/main/README.md#how-to-automatically-sign-the-application-every-6-days
+
+Jump to: https://github.com/CanvasONETech/AVPTag/blob/main/README.md#package-information
 
 AVPTag is a way to run Gorilla Tag on a Apple Vision Pro. Here is how.
 
