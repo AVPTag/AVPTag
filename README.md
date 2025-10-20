@@ -1,5 +1,5 @@
 # AVPTag 
-(created by [Hopefullty](youtube.com/@hopefullty) on YouTube.)
+(created by [Hopefullty](https://youtube.com/@hopefullty) on YouTube.)
 
 Jump to: https://github.com/CanvasONETech/AVPTag/blob/main/README.md#requirements
 
