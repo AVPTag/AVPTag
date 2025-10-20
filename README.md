@@ -19,7 +19,7 @@ Our GitHub repo requires A LOT of patience and time. However, it actually doesn'
 
 # Requirements
 
-A Windows Device with at least 5 GB free (To install Gorilla Tag)
+A Windows Device with at least 5 GB free (To install Gorilla Tag) and MUST not be arm windows (only x86_64, 64 bit, or 32 bit, recommended to use 64 bit)
 
 An  **Apple Silcon** MacOS Device with at least 30 GB free (To sideload apps onto the Vision Pro)
 
