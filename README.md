@@ -190,3 +190,46 @@ Apple Vision Pro:
  1. Press "Sync Gorilla Tag"
  2. Press "Open Gorilla Tag"
  3. Gorilla Tag is now installed!
+
+
+# How to Update Properly
+
+Windows:
+
+ 1. Check Steam before you play Gorilla Tag.
+ 2. If it says "Update", press the button and install it.
+ 3. Continue the rest of the update process below.
+
+Mac & Windows:
+
+ 1. Make sure AVPCLI is open.
+ 2. Continue the rest of the update process below.
+
+Mac:
+
+ 1. In AVPCLI, type "settings"
+ 2. A menu will appear. Press right arrow, down arrow, and you should be selected on "Auto Update". Press Enter.
+ 3. Continue the rest of the update process below.
+
+Windows:
+
+ 1. Go to Steam > Library > Gorilla Tag and press the settings icon and press Properties.
+ 2. Go to the "Updates" tab.
+ 3. Under automatic updates, press the dropdown.
+ 4. Press "Immediately download updates"
+ 5. Continue the rest of the update process below.
+
+Apple Vision Pro:
+
+ 1. Launch AVPTag from the Home View (or Home Screen)
+ 2. When the menu appears, press "Update Sync Settings"
+ 3. You will now get automatic updates!
+
+
+# How to automatically sign the application every 7 days
+
+Mac or Windows:
+
+ 1. On one of the two above, open AVPCLI.
+ 2. Type "settings" and press Enter
+ 3. You should be selected to AutoSign. Press Enter.
