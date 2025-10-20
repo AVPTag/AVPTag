@@ -37,17 +37,17 @@ An Apple Vision Pro -- any type of Apple Vision Pro. Must have 6 GB free at the 
 
 Mac:
 
- 1. Install Homebrew with `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
- 2. Run this command: `brew install git`
- 3. Run this command: `mkdir ~/AVPTag/ && cd ~/AVPTag/ && git clone https://github.com/CanvasONETech/AVPTag.git`
+ 1. Install Homebrew with ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
+ 2. Run this command: ```brew install git```
+ 3. Run this command: ```mkdir ~/AVPTag/ && cd ~/AVPTag/ && git clone https://github.com/CanvasONETech/AVPTag.git```
  4. Install Xcode: [https://apps.apple.com/us/app/xcode/id497799835]
  5. Install the visionOS SDK
  6. Continue the rest of the set up below.
     
 Windows:
 
- 1. Install git from [https://git-scm.com/downloads/win] or Install in Powershell with `winget install --id Git.Git -e --source winget`
- 2. Run this command: `mkdir "%USERPROFILE%\AVPTag" && cd "%USERPROFILE%\AVPTag" && git clone https://github.com/CanvasONETech/AVPTag.git`
+ 1. Install git from [https://git-scm.com/downloads/win] or Install in Powershell with ```winget install --id Git.Git -e --source winget```
+ 2. Run this command: ```mkdir "%USERPROFILE%\AVPTag" && cd "%USERPROFILE%\AVPTag" && git clone https://github.com/CanvasONETech/AVPTag.git```
  3. Install Steam if not already done.
  4. Log in to Steam if not already done.
  5. Purchase Gorilla Tag if not already done
@@ -131,7 +131,7 @@ Windows:
 Mac:
 
  1. Connect to the same internet as the Windows Device.
- 2. In Terminal, run this command: `cd ~/AVPTag/MacOS && ./pair.sh`
+ 2. In Terminal, run this command: ```cd ~/AVPTag/MacOS && ./pair.sh```
  3. Enter the code from the Windows Device.
  4. Continue the rest of the set up below.
     
