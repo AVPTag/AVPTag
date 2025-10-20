@@ -254,13 +254,23 @@ Apple Vision Pro:
 # Package Information
 
 Bundle ID: com.hopefullty.avptag
+
 Open Source: false
+
 Age Rating: 13+ to use the Steam version, however this is not enforced as anyone can build our programs.
+
 Category: Gaming
+
 Subcategory: Virtual Reality
+
 Platform: Built for visionOS, but streams from Windows.
+
 License: Proprietary (Personal Project)
+
 Region Availability: Anywhere that does not enforce Steam
+
 Multiplayer/Online Gaming: Yes
+
 Release Status: [==========5%==========] - Completed GitHub README, Completed Concept, Working on creating Xcode Project
+
 Developer Notes: This is a solo, fan-made project — not affiliated with or endorsed by Another Axiom.
