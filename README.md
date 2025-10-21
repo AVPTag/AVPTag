@@ -1,13 +1,13 @@
 # AVPTag 
 (created by [Hopefullty](https://youtube.com/@hopefullty) on YouTube.)
 
-Jump to: https://github.com/CanvasONETech/AVPTag/blob/main/README.md#requirements
+Jump to: https://github.com/AVPTag/AVPTag/blob/main/README.md#requirements
 
-Jump to: https://github.com/CanvasONETech/AVPTag/blob/main/README.md#how-to-update-properly
+Jump to: https://github.com/AVPTag/AVPTag/blob/main/README.md#how-to-update-properly
 
-Jump to: https://github.com/CanvasONETech/AVPTag/blob/main/README.md#how-to-automatically-sign-the-application-every-6-days
+Jump to: https://github.com/AVPTag/AVPTag/blob/main/README.md#how-to-automatically-sign-the-application-every-6-days
 
-Jump to: https://github.com/CanvasONETech/AVPTag/blob/main/README.md#package-information
+Jump to: https://github.com/AVPTag/AVPTag/blob/main/README.md#package-information
 
 AVPTag is a way to run Gorilla Tag on a Apple Vision Pro. Here is how.
 
@@ -39,7 +39,7 @@ Mac:
 
  1. Install Homebrew with ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
  2. Run this command: ```brew install git```
- 3. Run this command: ```mkdir ~/AVPTag/ && cd ~/AVPTag/ && git clone https://github.com/CanvasONETech/AVPTag.git```
+ 3. Run this command: ```mkdir ~/AVPTag/ && cd ~/AVPTag/ && git clone https://github.com/AVPTag/AVPTag.git```
  4. Install Xcode: [https://apps.apple.com/us/app/xcode/id497799835]
  5. Install the visionOS SDK
  6. Continue the rest of the set up below.
@@ -47,7 +47,7 @@ Mac:
 Windows:
 
  1. Install git from [https://git-scm.com/downloads/win] or Install in Powershell with ```winget install --id Git.Git -e --source winget```
- 2. Run this command: ```mkdir "%USERPROFILE%\AVPTag" && cd "%USERPROFILE%\AVPTag" && git clone https://github.com/CanvasONETech/AVPTag.git```
+ 2. Run this command: ```mkdir "%USERPROFILE%\AVPTag" && cd "%USERPROFILE%\AVPTag" && git clone https://github.com/AVPTag/AVPTag.git```
  3. Install Steam if not already done.
  4. Log in to Steam if not already done.
  5. Purchase Gorilla Tag if not already done
