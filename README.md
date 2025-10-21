@@ -210,12 +210,12 @@ Windows:
 
 Mac & Windows:
 
- 1. Make sure AVPCLI is open.
+ 1. Make sure AVPTAGCLI is open.
  2. Continue the rest of the update process below.
 
 Mac:
 
- 1. In AVPCLI, type "settings"
+ 1. In AVPTAGCLI, type "settings"
  2. A menu will appear. Press right arrow, down arrow, and you should be selected on "Auto Update". Press Enter.
  3. Continue the rest of the update process below.
 
@@ -238,7 +238,7 @@ Apple Vision Pro:
 
 Mac or Windows:
 
- 1. On one of the two above, open AVPCLI.
+ 1. On one of the two above, open AVPTAGCLI.
  2. Type "settings" and press Enter
  3. You should be selected to AutoSign. Press Enter.
  4. Continue the rest of the signing process below.
@@ -249,7 +249,7 @@ Apple Vision Pro:
  2. When the menu appears, press "Update Sync Settings"
  3. Press "Open Gorilla Tag"
  4. After you load into Gorilla Tag, you can close the app.
- 5. Your AVPTag will now automatically sign itself as long as AVPCLI runs in the background on your Mac (at the least)
+ 5. Your AVPTag will now automatically sign itself as long as AVPTAGCLI runs in the background on your Mac (at the least)
 
 # Package Information
 
@@ -271,6 +271,10 @@ Region Availability: Anywhere that does not enforce Steam
 
 Multiplayer/Online Gaming: Yes
 
-Release Status: [==========5%==========] - Completed GitHub README, Completed Concept, Working on creating Xcode Project
+Release Status: [==========7%==========]
+
+Half-Finished (https://avptag.github.io/)[AVPTag Website] homepage, Finished README.md, Finished Concept
+
+Next Steps: AVPTAGCLI
 
 Developer Notes: This is a solo, fan-made project — not affiliated with or endorsed by Another Axiom.
