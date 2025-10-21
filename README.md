@@ -275,6 +275,12 @@ Release Status: [==========7%==========]
 
 Half-Finished (https://avptag.github.io/)[AVPTag Website] homepage, Finished README.md, Finished Concept
 
-Next Steps: AVPTAGCLI
+Next Steps: AVPTAGCLI, Xcode project, Update Website FULLY, Test #1
+
+Potential Next Steps: Bug Fix #1, Test #2 (looped)
 
 Developer Notes: This is a solo, fan-made project — not affiliated with or endorsed by Another Axiom.
+
+Developer Notes continued: Just because it says Potential Next Steps and Tests and no updates on our project does NOT mean that we will not update.
+
+Leaks: We are planning to add "controllers" via mobile, so that you can Launch Gorilla Tag from your mobile device in case you can't launch it regularly. This should work with Android and iOS.
