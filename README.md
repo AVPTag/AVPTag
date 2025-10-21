@@ -284,3 +284,5 @@ Developer Notes: This is a solo, fan-made project — not affiliated with or end
 Developer Notes continued: Just because it says Potential Next Steps and Tests and no updates on our project does NOT mean that we will not update.
 
 Leaks: We are planning to add "controllers" via mobile, so that you can Launch Gorilla Tag from your mobile device in case you can't launch it regularly. This should work with Android and iOS.
+
+Copyright © Hopefullty Global Records 2025. All Rights Reserved.
